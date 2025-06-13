@@ -1,0 +1,10 @@
+{
+  "name": "GreenNBlue Demo Theme",
+  "type": "dark",
+  "colors": {},
+  "tokenColors": [],
+  "semanticTokenColors": {
+    "blue": { "foreground": "#0000FF" },
+    "green": { "foreground": "#00AA00" }
+  }
+}
